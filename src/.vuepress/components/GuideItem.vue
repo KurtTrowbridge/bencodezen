@@ -43,6 +43,7 @@ export default {
 .guide-item {
     display: flex;
     padding: 10px;
+    margin-bottom: 1.5rem;
     align-items: center;
     border: 1px solid #ddd;    
     border-radius: 4px;
